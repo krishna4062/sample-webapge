@@ -83,14 +83,14 @@ h3{
 
 /*----about-----*/
 
-#about
+.about
 {
     padding-top: 50px;
     padding-bottom: 50px;
     color: #555;
 }
 
-#about .btn 
+.about .btn 
 {
     margin-top: 20px;
     margin-bottom: 30px;
