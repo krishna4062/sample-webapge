@@ -19,50 +19,15 @@ h3{
 
 
 
-/*---navigation----*/
-.nav-bar
-{
-   position: static ;
-   top: 0;
-   z-index:10;
-}
+/*---navbar----*/
 
-.navbar-brand img
-{
-    height: 50px;
-    padding-left: 30px;
+.navbar {
+    background-color: transparent;
 }
 
 
-.navbar-nav li
-{
-    padding: 0 10px;
-}
 
-.navbar-nav li a
-{
-    float: right;
-    text-align: left;
-}
 
-#nav-bar ul li a:hover
-{
-    background-color: #007bff!important;
-}
-.navbar
-{
-    background-color: #fff;
-}
-.navbar-toggler
-{
-    border: none!important;
-}
-.nav-link
-{
-    color: #555!important;
-    font-weight: 600;
-    font-size: 16px;
-}
 
 /*----slider-----*/
 
