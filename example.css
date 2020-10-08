@@ -23,10 +23,11 @@ h3{
 
 .navbar {
     background-color: transparent;
+    
 }
 
 .top-nav-collapse {
-    background-color: black on scroll;
+    background-color: black;
 }
 
 
